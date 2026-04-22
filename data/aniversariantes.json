@@ -1,0 +1,13 @@
+[
+  {"id": 1, "name": "Erick A", "day": 26, "month": 1, "description": "Lider PB", "active": true},
+  {"id": 2, "name": "Lívia A", "day": 7, "month": 2, "description": "Frontend PB", "active": true},
+  {"id": 3, "name": "Luís O", "day": 25, "month": 2, "description": "Frontend PB", "active": true},
+  {"id": 4, "name": "Gabriel V", "day": 2, "month": 3, "description": "Dados AM", "active": true},
+  {"id": 5, "name": "Joab", "day": 28, "month": 3, "description": "Backend RN", "active": true},
+  {"id": 6, "name": "Amanda A", "day": 31, "month": 3, "description": "Frontend RJ", "active": true},
+  {"id": 7, "name": "Lilian R", "day": 4, "month": 4, "description": "Dados MG", "active": true},
+  {"id": 8, "name": "Lívia O", "day": 5, "month": 4, "description": "Frontend MA", "active": true},
+  {"id": 9, "name": "Fernando", "day": 24, "month": 8, "description": "Frontend PB", "active": true},
+  {"id": 10, "name": "Tiago S", "day": 26, "month": 9, "description": "Backend PB", "active": true},
+  {"id": 99, "name": "Bot", "day": 22, "month": 4, "description": "Born to notify", "active": true}
+]
