@@ -1,4 +1,4 @@
-#🎉 Birthday Notifier Serverless for Telegram
+#🎉 Birthday Notifier Serverless for Telegram#
 
 A simple and reproducible birthday notification system using:
 
